@@ -1,0 +1,636 @@
+{
+    "meals": [
+      {
+        "id": 1,
+        "image": "/INIZIO/sandwich.jpg",
+        "description": "crispy fried chicken sandwich",
+        "price": "450",
+        "type": "sandwiches"
+      },
+      {
+        "id": 2,
+        "image": "/INIZIO/sandwich.jpg",
+        "description": "grilled cheese sandwich",
+        "price": "450",
+        "type": "sandwiches"
+      },
+      {
+        "id": 3,
+        "image": "/INIZIO/sandwich.jpg",
+        "description": "cheese steak sandwich",
+        "price": "450",
+        "type": "sandwiches"
+      },
+      {
+        "id": 4,
+        "image": "/INIZIO/sandwich.jpg",
+        "description": "veggie club sandwich",
+        "price": "450",
+        "type": "sandwiches"
+      },
+      {
+        "id": 5,
+        "image": "/INIZIO/sandwich.jpg",
+        "description": "chicken tikka sandwich",
+        "price": "450",
+        "type": "sandwiches"
+      },
+      {
+        "id": 6,
+        "image": "/INIZIO/cookies.jpg",
+        "description": "peanut butter cookies",
+        "price": "100",
+        "type": "cookies"
+      },
+      {
+        "id": 7,
+        "image": "/INIZIO/cookies.jpg",
+        "description": "vanilla cookies",
+        "price": "100",
+        "type": "cookies"
+      },
+      {
+        "id": 8,
+        "image": "/INIZIO/cookies.jpg",
+        "description": "italian lemon cookies",
+        "price": "100",
+        "type": "cookies"
+      },
+      {
+        "id": 9,
+        "image": "/INIZIO/cookies.jpg",
+        "description": "danish butter cookies",
+        "price": "100",
+        "type": "cookies"
+      },
+      {
+        "id": 10,
+        "image": "/INIZIO/muffin.jpg",
+        "description": "chocolate muffins",
+        "price": "150",
+        "type": "muffins"
+      },
+      {
+        "id": 11,
+        "image": "/INIZIO/muffin.jpg",
+        "description": "marble fruity muffins",
+        "price": "150",
+        "type": "muffins"
+      },
+      {
+        "id": 12,
+        "image": "/INIZIO/muffin.jpg",
+        "description": "vanilla muffins",
+        "price": "150",
+        "type": "muffins"
+      },
+      {
+        "id": 13,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "margherita",
+        "price": "800",
+        "type": "pizza"
+      },
+      {
+        "id": 14,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "pepperoni",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 15,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "caprese",
+        "price": "800",
+        "type": "pizza"
+      },
+      {
+        "id": 16,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "beef pizza",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 17,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "buffalo chicken",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 18,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "chicken tikka",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 19,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "bbq chicken",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 20,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "bbq steak",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 21,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "roast",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 22,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "italian steak",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 23,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "italiano",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 24,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "meat fest",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 25,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "periperi chicken",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 26,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "periperi steak",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 27,
+        "image": "/INIZIO/pizza.jpg",
+        "description": "veggie",
+        "price": "850",
+        "type": "pizza"
+      },
+      {
+        "id": 28,
+        "image": "/INIZIO/burger.jpg",
+        "description": "beef burger",
+        "price": "350",
+        "type": "burgers"
+      },
+      {
+        "id": 29,
+        "image": "/INIZIO/burger.jpg",
+        "description": "beef cheese burger",
+        "price": "450",
+        "type": "burgers"
+      },
+      {
+        "id": 30,
+        "image": "/INIZIO/burger.jpg",
+        "description": "chicken burger",
+        "price": "350",
+        "type": "burgers"
+      },
+      {
+        "id": 31,
+        "image": "/INIZIO/burger.jpg",
+        "description": "chicken cheese burger",
+        "price": "450",
+        "type": "burgers"
+      },
+      {
+        "id": 32,
+        "image": "/INIZIO/burger.jpg",
+        "description": "egg cheese burger",
+        "price": "450",
+        "type": "burgers"
+      },
+      {
+        "id": 33,
+        "image": "/INIZIO/burger.jpg",
+        "description": "vegetarian burger",
+        "price": "350",
+        "type": "burgers"
+      },
+      {
+        "id": 34,
+        "image": "/INIZIO/burger.jpg",
+        "description": "teriyaki chicken burger",
+        "price": "350",
+        "type": "burgers"
+      },
+      {
+        "id": 35,
+        "image": "/INIZIO/fries.jpg",
+        "description": "plain seasoned fries",
+        "price": "150",
+        "type": "fries"
+      },
+      {
+        "id": 36,
+        "image": "/INIZIO/fries.jpg",
+        "description": "fries masala",
+        "price": "200",
+        "type": "fries"
+      },
+      {
+        "id": 37,
+        "image": "/INIZIO/fries.jpg",
+        "description": "poussin fries",
+        "price": "250",
+        "type": "fries"
+      },
+      {
+        "id": 38,
+        "image": "/INIZIO/fries.jpg",
+        "description": "periperi fries",
+        "price": "250",
+        "type": "fries"
+      },
+      {
+        "id": 39,
+        "image": "/INIZIO/fries.jpg",
+        "description": "beef carbonate fries",
+        "price": "300",
+        "type": "fries"
+      },
+      {
+        "id": 40,
+        "image": "/INIZIO/fries.jpg",
+        "description": "cheese jalapeno fries",
+        "price": "300",
+        "type": "fries"
+      },
+      {
+        "id": 41,
+        "image": "/INIZIO/fries.jpg",
+        "description": "potato bhajia",
+        "price": "200",
+        "type": "fries"
+      },
+      {
+        "id": 42,
+        "image": "/INIZIO/fries.jpg",
+        "description": "mixed lentils bhajia",
+        "price": "200",
+        "type": "fries"
+      },
+      {
+        "id": 43,
+        "image": "/INIZIO/rice.jpg",
+        "description": "egg fried rice",
+        "price": "350",
+        "type": "rice"
+      },
+      {
+        "id": 44,
+        "image": "/INIZIO/rice.jpg",
+        "description": "chicken fried rice",
+        "price": "350",
+        "type": "rice"
+      },
+      {
+        "id": 45,
+        "image": "/INIZIO/rice.jpg",
+        "description": "veggie fried rice",
+        "price": "350",
+        "type": "rice"
+      },
+      {
+        "id": 46,
+        "image": "/INIZIO/rice.jpg",
+        "description": "biryani",
+        "price": "500",
+        "type": "rice"
+      },
+      {
+        "id": 47,
+        "image": "/INIZIO/rice.jpg",
+        "description": "pilau",
+        "price": "500",
+        "type": "rice"
+      },
+      {
+        "id": 48,
+        "image": "/INIZIO/rice.jpg",
+        "description": "somali rice",
+        "price": "350",
+        "type": "rice"
+      },
+      {
+        "id": 49,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "southern mac and cheese",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 50,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "spaghetti bolognese",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 51,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "mushroom pasta",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 52,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "alfredo",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 53,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "creamy paste pasta",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 54,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "skillet",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 55,
+        "image": "/INIZIO/pasta.jpg",
+        "description": "spaghetti and meatballs",
+        "price": "500",
+        "type": "pasta"
+      },
+      {
+        "id": 56,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "choma chicken",
+        "price": "600",
+        "type": "chicken"
+      },
+      {
+        "id": 57,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "crispy chicken",
+        "price": "600",
+        "type": "chicken"
+      },
+      {
+        "id": 58,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "chicken tikka",
+        "price": "600",
+        "type": "chicken"
+      },
+      {
+        "id": 59,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "chicken napolitana",
+        "price": "600",
+        "type": "chicken"
+      },
+      {
+        "id": 60,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "chicken meriland",
+        "price": "600",
+        "type": "chicken"
+      },
+      {
+        "id": 61,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "butter chicken",
+        "price": "450",
+        "type": "chicken"
+      },
+      {
+        "id": 62,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "chicken curry",
+        "price": "450",
+        "type": "chicken"
+      },
+      {
+        "id": 63,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "kuku paka (coconut chicken curry)",
+        "price": "500",
+        "type": "chicken"
+      },
+      {
+        "id": 64,
+        "image": "/INIZIO/chicken.jpg",
+        "description": "kienyeji chicken",
+        "price": "1800",
+        "type": "chicken"
+      },
+      {
+        "id": 65,
+        "image": "/INIZIO/fish.jpg",
+        "description": "grilled fish",
+        "price": "600",
+        "type": "fish"
+      },
+      {
+        "id": 66,
+        "image": "/INIZIO/fish.jpg",
+        "description": "romana fish",
+        "price": "700",
+        "type": "fish"
+      },
+      {
+        "id": 67,
+        "image": "/INIZIO/fish.jpg",
+        "description": "fried fish (dry/wet)",
+        "price": "600",
+        "type": "fish"
+      },
+      {
+        "id": 68,
+        "image": "/INIZIO/fish.jpg",
+        "description": "fish stew",
+        "price": "550",
+        "type": "fish"
+      },
+      {
+        "id": 69,
+        "image": "/INIZIO/fish.jpg",
+        "description": "fish fillet",
+        "price": "800",
+        "type": "fish"
+      },
+      {
+        "id": 70,
+        "image": "/INIZIO/fish.jpg",
+        "description": "goan fish curry",
+        "price": "500",
+        "type": "fish"
+      },
+      {
+        "id": 71,
+        "image": "/INIZIO/bbq.jpg",
+        "description": "lamb/mutton chops",
+        "price": "500",
+        "type": "bbq"
+      },
+      {
+        "id": 72,
+        "image": "/INIZIO/bbq.jpg",
+        "description": "beef steak",
+        "price": "600",
+        "type": "bbq"
+      },
+      {
+        "id": 73,
+        "image": "/INIZIO/bbq.jpg",
+        "description": "ribs",
+        "price": "450",
+        "type": "bbq"
+      },
+      {
+        "id": 74,
+        "image": "/INIZIO/bbq.jpg",
+        "description": "dry/wet",
+        "price": "500",
+        "type": "bbq"
+      },
+      {
+        "id": 75,
+        "image": "/INIZIO/bbq.jpg",
+        "description": "mutton curry",
+        "price": "450",
+        "type": "bbq"
+      },
+      {
+        "id": 76,
+        "image": "/INIZIO/liver.jpg",
+        "description": "dry fry",
+        "price": "350",
+        "type": "liver"
+      },
+      {
+        "id": 77,
+        "image": "/INIZIO/vegetable-curry.jpg",
+        "description": "mixed veg handi curry",
+        "price": "500",
+        "type": "vegetable curry"
+      },
+      {
+        "id": 78,
+        "image": "/INIZIO/fruit-dessert.jpg",
+        "description": "fruit salad (fruits on season)",
+        "price": "350",
+        "type": "desserts"
+      },
+      {
+        "id": 79,
+        "image": "/INIZIO/fruit-dessert.jpg",
+        "description": "fruit pudding",
+        "price": "400",
+        "type": "desserts"
+      },
+      {
+        "id": 80,
+        "image": "/INIZIO/fruit-dessert.jpg",
+        "description": "ice cream scoops",
+        "price": "150",
+        "type": "desserts"
+      },
+      {
+        "id": 81,
+        "image": "/INIZIO/chapati.jpg",
+        "description": "atta brown chapati",
+        "price": "50",
+        "type": "sides"
+      },
+      {
+        "id": 82,
+        "image": "/INIZIO/chapati.jpg",
+        "description": "white chapati",
+        "price": "50",
+        "type": "sides"
+      },
+      {
+        "id": 83,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "espresso",
+        "price": "170",
+        "type": "drinks"
+      },
+      {
+        "id": 84,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "espresso macchiato",
+        "price": "170",
+        "type": "drinks"
+      },
+      {
+        "id": 85,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "cappuccino",
+        "price": "170",
+        "type": "drinks"
+      },
+      {
+        "id": 86,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "cafe mocha",
+        "price": "170",
+        "type": "drinks"
+      },
+      {
+        "id": 87,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "cafe latte",
+        "price": "250",
+        "type": "drinks"
+      },
+      {
+        "id": 88,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "latte macchiato",
+        "price": "250",
+        "type": "drinks"
+      },
+      {
+        "id": 89,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "chai latte",
+        "price": "250",
+        "type": "drinks"
+      },
+      {
+        "id": 90,
+        "image": "/INIZIO/coffee.jpg",
+        "description": "house coffee",
+        "price": "170",
+        "type": "drinks"
+      }
+    ],
+    "orders": [],
+    "deliveries": []
+  }
