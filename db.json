@@ -309,48 +309,6 @@
         "type": "chicken"
       },
       {
-        "id": 65,
-        "image": "/INIZIO/fish.jpg",
-        "description": "grilled fish",
-        "price": "600",
-        "type": "fish"
-      },
-      {
-        "id": 66,
-        "image": "/INIZIO/fish.jpg",
-        "description": "romana fish",
-        "price": "700",
-        "type": "fish"
-      },
-      {
-        "id": 67,
-        "image": "/INIZIO/fish.jpg",
-        "description": "fried fish (dry/wet)",
-        "price": "600",
-        "type": "fish"
-      },
-      {
-        "id": 68,
-        "image": "/INIZIO/fish.jpg",
-        "description": "fish stew",
-        "price": "550",
-        "type": "fish"
-      },
-      {
-        "id": 69,
-        "image": "/INIZIO/fish.jpg",
-        "description": "fish fillet",
-        "price": "800",
-        "type": "fish"
-      },
-      {
-        "id": 70,
-        "image": "/INIZIO/fish.jpg",
-        "description": "goan fish curry",
-        "price": "500",
-        "type": "fish"
-      },
-      {
         "id": 71,
         "image": "/INIZIO/bbq.jpg",
         "description": "lamb/mutton chops",
