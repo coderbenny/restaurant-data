@@ -104,21 +104,7 @@
         "description": "veggie",
         "price": "850",
         "type": "pizza"
-      },
-      {
-        "id": 28,
-        "image": "/INIZIO/burger.jpg",
-        "description": "beef burger",
-        "price": "350",
-        "type": "burgers"
-      },
-      {
-        "id": 29,
-        "image": "/INIZIO/burger.jpg",
-        "description": "beef cheese burger",
-        "price": "450",
-        "type": "burgers"
-      },
+      }
     ],
     "orders": []
 }
