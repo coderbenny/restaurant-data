@@ -1,62 +1,6 @@
 {
     "meals": [
       {
-        "id": 1,
-        "image": "/INIZIO/sandwich.jpg",
-        "description": "crispy fried chicken sandwich",
-        "price": "450",
-        "type": "sandwiches"
-      },
-      {
-        "id": 2,
-        "image": "/INIZIO/sandwich.jpg",
-        "description": "grilled cheese sandwich",
-        "price": "450",
-        "type": "sandwiches"
-      },
-      {
-        "id": 3,
-        "image": "/INIZIO/sandwich.jpg",
-        "description": "cheese steak sandwich",
-        "price": "450",
-        "type": "sandwiches"
-      },
-      {
-        "id": 4,
-        "image": "/INIZIO/sandwich.jpg",
-        "description": "veggie club sandwich",
-        "price": "450",
-        "type": "sandwiches"
-      },
-      {
-        "id": 5,
-        "image": "/INIZIO/sandwich.jpg",
-        "description": "chicken tikka sandwich",
-        "price": "450",
-        "type": "sandwiches"
-      },
-      {
-        "id": 10,
-        "image": "/INIZIO/muffin.jpg",
-        "description": "chocolate muffins",
-        "price": "150",
-        "type": "muffins"
-      },
-      {
-        "id": 11,
-        "image": "/INIZIO/muffin.jpg",
-        "description": "marble fruity muffins",
-        "price": "150",
-        "type": "muffins"
-      },
-      {
-        "id": 12,
-        "image": "/INIZIO/muffin.jpg",
-        "description": "vanilla muffins",
-        "price": "150",
-        "type": "muffins"
-      },
-      {
         "id": 13,
         "image": "/INIZIO/pizza.jpg",
         "description": "margherita",
