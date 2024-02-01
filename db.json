@@ -36,34 +36,6 @@
         "type": "sandwiches"
       },
       {
-        "id": 6,
-        "image": "/INIZIO/cookies.jpg",
-        "description": "peanut butter cookies",
-        "price": "100",
-        "type": "cookies"
-      },
-      {
-        "id": 7,
-        "image": "/INIZIO/cookies.jpg",
-        "description": "vanilla cookies",
-        "price": "100",
-        "type": "cookies"
-      },
-      {
-        "id": 8,
-        "image": "/INIZIO/cookies.jpg",
-        "description": "italian lemon cookies",
-        "price": "100",
-        "type": "cookies"
-      },
-      {
-        "id": 9,
-        "image": "/INIZIO/cookies.jpg",
-        "description": "danish butter cookies",
-        "price": "100",
-        "type": "cookies"
-      },
-      {
         "id": 10,
         "image": "/INIZIO/muffin.jpg",
         "description": "chocolate muffins",
